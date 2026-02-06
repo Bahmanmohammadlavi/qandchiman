@@ -1,0 +1,12 @@
+python-telegram-bot==21.7
+supabase==2.6.1
+python-dotenv==1.0.0
+jdatetime==4.1.0
+matplotlib==3.8.2
+pandas==2.2.0
+flask==3.0.2
+openpyxl==3.1.2
+pillow==10.2.0
+gunicorn==21.2.0
+emoji==2.10.1
+pytz==2024.1
